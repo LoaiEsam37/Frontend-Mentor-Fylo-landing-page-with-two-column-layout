@@ -61,7 +61,7 @@ img {
   transition: 0.3s;
 }
 
-@media (max-width: 470px) {
+@media (max-width: 500px) {
   .nav__items {
     gap: 10px;
   }
